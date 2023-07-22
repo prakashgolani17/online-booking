@@ -24,7 +24,7 @@ background-color: black;
 color: white;
 width: 100vw;
 height: 100vh;
-background: url("/src/images/shingu.webp");
+background: url("../src/images/shingu.webp");
 
 background-repeat: no-repeat;
 background-size:100% 100% ;
