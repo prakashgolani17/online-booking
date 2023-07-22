@@ -1,0 +1,114 @@
+.bap{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container{
+  
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* border: 10px solid black; */
+  /* margin-top: 103px; */
+  /* margin-left: 700px; */
+  /* margin-left: 22px; */
+  /* margin-right: 846px; */
+/* size: 50%; */
+/* border: 2px solid black; */
+/* border-radius: 100px; */
+/* height: 400px; */
+background-color: black;
+color: white;
+width: 100vw;
+height: 100vh;
+background: url("/src/images/shingu.webp");
+
+background-repeat: no-repeat;
+background-size:100% 100% ;
+/* background-size: cover; */
+/* width: 100%; */
+/* height: 100%; */
+/* transform: scale(0.9); */
+/* opacity: 0.9; */
+
+  
+}
+
+.component{
+  /* border-radius: 40px; */
+  background-color: rgb(48, 47, 47);
+  color: white;
+}
+
+
+
+Link .btn{
+  align-items: center;
+  color: red;
+}
+
+html{
+  width: 100vw;
+  height: 100vh;
+}
+
+
+section{
+  position: absolute;
+  color: white;
+  margin-top: 400px;
+}
+
+.contact{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 500px;
+}
+
+
+.about {
+  margin: auto;
+  margin-top: 45px;
+  /* margin-right: ; */
+  margin-left: 40px;
+  width: 50%;
+  color: rgb(162, 157, 157);
+}
+.btn:hover{
+  /* background-color: green; */
+  color: rgb(3, 64, 17);
+  /* background-color: darkblue; */
+  transform: scale(1.1);
+
+}
+/* .btn:active{
+  color: yellow;
+} */
+
+/* .inp{
+  /* background-color: black; */
+  /* color: black */
+/* }  */
+
+/* Input { */
+
+  /* background-color : #160101;  */
+  
+
+/* } */
+
+
+.error{
+  color: red;
+  /* border: 2px solid red; */
+  /* border: 2px solid red; */
+}
+
+/* Input [type=text]{
+  border: 2px solid red;
+} */
